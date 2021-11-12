@@ -8,7 +8,7 @@ To view a demo example, **[click here](https://thalytabdn.github.io/Portfolio/)*
 ## 📝 About
 
 A simple and responsive portfolio template.
-You need to open the data.js file and change the properties of the objects for each session on the page: Getting Started, About Me, Skills, and Project.
+You need to open the data.js file and change or add object properties for each session on the page: Getting Started, About Me, Skills, and Project.
 You can follow the guide below.
 
 <img  alt="skills" background="red" width="30" height="30" src="https://user-images.githubusercontent.com/59892368/141498539-73b3e352-1972-45af-b028-575c27e54903.gif">
