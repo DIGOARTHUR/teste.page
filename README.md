@@ -13,6 +13,9 @@ You can follow the guide below.
 
 <img  alt="skills" background="red" width="30" height="30" src="https://user-images.githubusercontent.com/59892368/141498539-73b3e352-1972-45af-b028-575c27e54903.gif">
 
+* This adaptation helps to reduce the repetition of HTML lines.
+* Insertion and addition of elements in a clean and practical way through JS.
+
 > Following the logic of data.js and renderTemplate.js files, modifications are possible.
 > The construction of rendering and inserting data using object is based on: <a href="https://youtu.be/QzDjdlF1BQI?t=40">Source</a> 
 
